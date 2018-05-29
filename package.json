@@ -1,0 +1,15 @@
+{
+  "name": "space-station-pheta",
+  "version": "0.0.1",
+  "description": "Space Station Pheta",
+  "main": "index.js",
+  "repository": "https://github.com/ajsoriar/space-station-pheta.git",
+  "author": "asr <ajsoriar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajsr-confirm": "^1.2.2",
+    "ajsr-notify": "^0.0.1",
+    "animation-stepper": "^0.0.1",
+    "div-lines": "^1.2.0"
+  }
+}
